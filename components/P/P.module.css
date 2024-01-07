@@ -1,0 +1,19 @@
+.size {
+	margin: 0;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.size14 {
+	font-size: 14px;
+}
+
+.size16 {
+	font-size: 16px;
+}
+
+.size18 {
+	font-size: 18px;
+	line-height: 29px;
+}
